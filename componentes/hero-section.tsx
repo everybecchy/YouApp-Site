@@ -1,6 +1,6 @@
 "use client"
 
-import { Button } from "@/components/ui/button"
+import { Button } from "@/componentes/ui/button"
 import { ArrowRight, Smartphone, Zap, Shield, Play, Pause } from "lucide-react"
 import { useState, useRef } from "react"
 

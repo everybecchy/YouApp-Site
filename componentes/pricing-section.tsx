@@ -1,4 +1,4 @@
-import { Button } from "@/components/ui/button"
+import { Button } from "@/componentes/ui/button"
 import { Check, Star } from "lucide-react"
 
 export function PricingSection() {
