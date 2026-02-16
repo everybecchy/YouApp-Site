@@ -1,13 +1,13 @@
-import { Header } from "@/components/header"
-import { HeroSection } from "@/components/hero-section"
-import { ProblemSection } from "@/components/problem-section"
-import { SolutionSection } from "@/components/solution-section"
-import { HowItWorksSection } from "@/components/how-it-works-section"
-import { FeaturesSection } from "@/components/features-section"
-import { IntegrationsSection } from "@/components/integrations-section"
-import { PricingSection } from "@/components/pricing-section"
-import { FAQSection } from "@/components/faq-section"
-import { Footer } from "@/components/footer"
+import { Header } from "@/componentes/header"
+import { HeroSection } from "@/componentes/hero-section"
+import { ProblemSection } from "@/componentes/problem-section"
+import { SolutionSection } from "@/componentes/solution-section"
+import { HowItWorksSection } from "@/componentes/how-it-works-section"
+import { FeaturesSection } from "@/componentes/features-section"
+import { IntegrationsSection } from "@/componentes/integrations-section"
+import { PricingSection } from "@/componentes/pricing-section"
+import { FAQSection } from "@/componentes/faq-section"
+import { Footer } from "@/componentes/footer"
 
 export default function Home() {
   return (
